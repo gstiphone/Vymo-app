@@ -32,6 +32,6 @@
     NSMutableArray *arrValues;
     IBOutlet UIView *vwCalculator;
 
-    
+    IBOutlet UIView *vwCalculator2;
 }
 @end
